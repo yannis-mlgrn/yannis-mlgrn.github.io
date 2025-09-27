@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tryhackme Room — W1seGuy
+title: Tryhackme Challenge — W1seGuy
 categories: [TryHackMe, Cryptography]
 tags: [XOR,Crypto]
-description: W1seGuy write-up
+description: W1seGuy cryptography challenge write-up
 math: true
 ---
 
