@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tryhackme Challenge — W1seGuy
+title: TryHackMe Challenge — W1seGuy
 categories: [TryHackMe, Cryptography]
 tags: [XOR,Crypto]
 description: W1seGuy cryptography challenge write-up
