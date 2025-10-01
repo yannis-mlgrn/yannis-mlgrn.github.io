@@ -14,10 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: yannis-mlgrn write-ups # the main title
+title: OxYannox blog # the main title
 
-tagline: Personnal yannis-mlgrn blog # it will display as the subtitle
-
+tagline: blog and write-ups # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   A personal blog by Yannis for sharing technical write-ups, cybersecurity projects, DevSecOps experiments, and programming insights.
 # Fill in the protocol & hostname for your site.
@@ -33,7 +32,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: yannis-mlgrn
+  name: OxYannox
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
